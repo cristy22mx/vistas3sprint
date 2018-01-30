@@ -324,10 +324,6 @@ form{
   padding: 0;
 }
 
-input[placeholder] {
-  color: black;
-}
-
 .secondsection{
   background-image: url(../assets/images/Background1.jpg);
   height:40vh;
